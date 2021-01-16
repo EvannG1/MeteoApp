@@ -1,6 +1,6 @@
 # MeteoApp
 
-My first Flutter application - from a tutorial with some added features (search bar...).
+My first Flutter application - from a tutorial with some added features.
 
 ## Getting Started
 
